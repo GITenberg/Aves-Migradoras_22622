@@ -1,0 +1,38 @@
+_repo: Aves-Migradoras_22622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Almeida, José Valentim Fialho de
+    birthdate: 1857
+    deathdate: 1911
+    gutenberg_agent_id: '25452'
+    url: http://www.gutenberg.org/2009/agents/25452
+    wikipedia: http://pt.wikipedia.org/wiki/Fialho_de_Almeida
+description: ''
+edition_note: 4.º Milhar
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22622'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Ricardo F. Diogo, Christine P. Travers and the Online
+  Distributed Proofreading Team at http://www.pgdp.net
+publication_note: "Lisboa:\r\nLivraria Clássica Editora\r\nDe A. M. Teixeira & C.a\
+  \ (Filhos)\r\nPraça dos Restauradores, 17\r\nPorto--Imprensa Portuguesa\r\nRua Formosa,\
+  \ 116\r\n1922"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: Aves Migradoras -- O Sineiro de Santa-Agatha -- Pequeno Drama na
+  Aldeia -- A Provincia -- O Juramento da Condessa Esther -- Coronado -- A Eminente
+  Actriz
+title: Aves Migradoras
+url: http://www.gutenberg.org/ebooks/22622
